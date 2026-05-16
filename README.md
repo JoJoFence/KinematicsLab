@@ -88,7 +88,9 @@ All UR models use DH parameters sourced from Universal Robots' official document
 
 ## Demo
 
-![Kinematics Lab Draw Mode](assets/KinematicsLab_DrawHIDemo_Video.mp4)
+![Kinematics Lab Draw Mode](https://github.com/user-attachments/assets/1f3afbc8-2607-434b-a5bc-265ccd6f4c6b)
+
+
 
 *Draw Mode: the robot arm drawing "Hi" on the whiteboard using Cartesian `draw_to(x, y)` commands solved via numerical IK.*
 
